@@ -104,8 +104,7 @@ df['column'] = df['column'].fillna('value')
 ## Output Summary
 
 Cleaned data sample:
-![image](https://github.com/user-attachments/assets/a6faee80-1e75-4f93-8f38-b6a50d81189f)
-
+![image](image.png)
 
 All originally missing values were handled appropriately and the dataset is now suitable for exploratory data analysis or machine learning tasks.
 
@@ -127,7 +126,8 @@ The cleaned dataset will be saved as `cleaned_netflix_dataset.csv`.
 * Dashboard creation and visualization
 * Data modeling and prediction
 * Data wrangling practice for aspiring analysts
-
+* content trend analysis
+* no redandancy
 ---
 
 ## Contact
